@@ -18,7 +18,7 @@ Install `segment-analytics-python` using pip:
 pip install segment-analytics-python
 ```
 
-If you're using a system for managing dependencies, you'll want to pin the library to `1.X` to avoid breaking changes when the library is updated
+If you're using a system for managing dependencies, you'll want to pin the library to `2.X` to avoid breaking changes when the library is updated
 
 Inside your app, you'll want to **set your `write_key`** before making any analytics calls:
 
